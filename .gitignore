@@ -1,3 +1,7 @@
+# Leaking your personal financial data onto github would be bad
+*.ipynb
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
