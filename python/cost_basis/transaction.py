@@ -35,7 +35,7 @@ class Transaction(object):
             return d.date()
         elif type(d) is str:
             # convention: Dates can be written as YYYY-MM-DD, but not in any other way.
-            return datetime.datetime.strptime(d, '%Y-%M-%d')
+            return datetime.datetime.strptime(d, '%Y-%m-%d')
     @staticmethod
     def float2decimal(f, sigfigs=2):
         return Decimal('{1:0.{0}f}'.format(sigfigs, f))

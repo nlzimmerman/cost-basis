@@ -1,3 +1,3 @@
-from cost_basis.account import Account
+from cost_basis.averageaccount import AverageAccount
 from cost_basis.specidaccount import SpecIDAccount
 from cost_basis.transaction import Transaction
