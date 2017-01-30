@@ -21,8 +21,7 @@ Of course, all of these are really special cases of SpecID.
 
 Todo:
 
-- DRY up the Account and SpecIDAccount classes (probably with inheritance). Also rename Account to AverageAccount.
-- Implement other cost-basis methods.
+- Implement other cost-basis methods. IN PROGRESS.
 - Read/Write CSVs.
 - Visualize unrealized gains and losses over time.
 - Useful examples.
