@@ -21,7 +21,7 @@ Of course, all of these are really special cases of SpecID.
 
 Todo:
 
-- Implement other cost-basis methods. IN PROGRESS.
+- Implement other cost-basis methods. IN PROGRESS; sell_first not working.
 - Read/Write CSVs.
 - Visualize unrealized gains and losses over time.
 - Useful examples.
